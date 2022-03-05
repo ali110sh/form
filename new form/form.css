@@ -1,0 +1,33 @@
+
+.firstinput {
+    width: 100%;
+    padding: 10px;
+    border: 3px  solid red ;}
+form{
+    margin: 10% 10% 5% 10%;
+
+}
+.secondinput{
+    width: 100%;
+    padding: 10px;
+    border: 3px  solid aqua;
+}
+#l1{
+    font-size: 50px;
+    color:rgb(252, 2, 2);
+    text-shadow : 0px 0px 5px rgb(14, 13, 13);
+}
+#l2{
+    font-size: 50px;
+    color: aqua;  
+    text-shadow: 0px 0px 5px rgb(2, 2, 165);
+}
+.button{
+    float:right;
+    width: 200px;
+    height: 30;
+    background-color: rgb(150,20, 202);
+    border: none;
+    color: white;
+    margin: 0 10% 10% 10%
+}
